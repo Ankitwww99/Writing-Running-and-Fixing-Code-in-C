@@ -7,7 +7,7 @@ struct _retire_info{
   double rate_of_return;
 };
 
-typedef _retire_info retire_info;
+typedef struct _retire_info retire_info;
 
 double calculateBalance(double totalBalance, retire_info retireStatus){
   totalBalance+= totalBalance * retireStatus.rate_of_return;
