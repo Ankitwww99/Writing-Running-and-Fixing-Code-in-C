@@ -28,3 +28,7 @@ Ks Qs Js 0s 9s 3h 2d; As Ks Qs Js 0s 9s 6c
 5s 4s 3s 2s As 0d 4c; 4c 4s As 0d 5s 3s 2d
 As Ks Qd Js 0d 5d 4d; As Ks Qd Js 0d 5d 4d
 Qd Jd 0d 9s 9h 8h 8c; Qd Jd 0d 9s 9h 8h 8c
+As Ac Kh Qh Jd Js 4s; As 4d Kh Qh Jd Js 4s
+As Ac Kh Qh Jd Js 4s; As 4d Kh Qh Jd Js
+As Ac Kh Qh Jd Js; As 4d Kh Qh Jd Js 4s
+As Ac Kh Qh Jd Js 4s
